@@ -1,7 +1,7 @@
 # BHS_OGPC
 
 Theme for 2017: Connections <br />
-Programming Language: Python3/Pygame <br />
+Programming Language: Python3.6/Pygame <br />
 Special Note: Pygame will be refactored to fit our needs <br />
  <br />
 ====FORMATING==== <br />
